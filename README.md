@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=liamvdm2&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://dcbadge.vercel.app/api/shield/473182309957500929?theme=discord)
+![](https://komarev.com/ghpvc/?username=liamvdm2&color=brightgreen&abbreviated=true)
+
+[![My Skills](https://skillicons.dev/icons?i=angular,css,figma,html,js,mysql,nodejs,ts,wordpress&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,github,instagram,linkedin&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,powershell&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
 Browsers i use :
 <br>
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
@@ -39,14 +47,15 @@ how i learn new types of styling, and how i keep up to date i use:
 learning: 
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liamvdm2&repo=eindproject)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal?theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
 ![liamvdm2 GitHub stats](https://github-readme-stats.vercel.app/api?username=liamvdm2&show_icons=true&theme=tokyonight&show=prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liamvdm2&layout=donut-vertical)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liamvdm2&repo=eindproject)
+
+
 
 
 
