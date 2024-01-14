@@ -10,9 +10,13 @@
 </p>
 
 # Hi there 👋
+My name is Liam Vandermaesen,
+a passionate front-end developer with a love for creating engaging and useful applications. My coding journey began 2 years, and since then, I've delved into various technologies and programming languages.
+Currently, I'm working on an endproject for school. . I'm always on the lookout for new challenges and learning opportunities to enhance my skills and stay up-to-date with the latest developments in the tech world.
+Beneath this you can read more about me:
 
 ## 💻 My tech skills
-[![My Skills](https://skillicons.dev/icons?i=angular,css,figma,html,js,mysql,nodejs,ts,wordpress,linux,powershell,vscode&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,css,figma,html,js,mysql,nodejs,ts,wordpress,linux,powershell,vscode)](https://skillicons.dev)
 
 
 ## 📚 Frameworks, Platforms, and Libraries I Use
