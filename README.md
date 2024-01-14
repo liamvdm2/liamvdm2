@@ -11,34 +11,9 @@
 
 # Hi there 👋
 
-## :computer: Skills
+## 💻 My tech skills
+[![My Skills](https://skillicons.dev/icons?i=angular,css,figma,html,js,mysql,nodejs,ts,wordpress,linux,powershell,vscode&perline=6)](https://skillicons.dev)
 
-### Programming
-[![My Skills](https://skillicons.dev/icons?i=angular,css,figma,html,js,mysql,nodejs,ts,wordpress&perline=3)](https://skillicons.dev)
-
-### Terminal Coding Skills
-[![My Skills](https://skillicons.dev/icons?i=linux,powershell&perline=3)](https://skillicons.dev)
-
-### Programs
-[![My Skills](https://skillicons.dev/icons?i=vscode&perline=3)](https://skillicons.dev)
-
-### Database Skills
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-## How I Work
-1. I firstly split my project up into sub-problems
-2. Then I make a preview styling in Figma
-3. Finally, I start coding the styling and functionality
-
-## Stay Updated with
-
-- ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white) 
-- ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) 
-- ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-
-## 🎓 Education
-![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
 ## 📚 Frameworks, Platforms, and Libraries I Use
 
@@ -54,7 +29,8 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
 ## Projects
-🔭 I’m currently working on
+
+### currently working on
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liamvdm2&repo=eindproject)
 
 ## Contact Me
@@ -64,7 +40,7 @@
 [![My Socials](https://skillicons.dev/icons?i=github,instagram,linkedin&perline=3)](https://skillicons.dev)
 
 ## GitHub Statistics
-<p align="center">
+<p>
   <a href="https://github.com/liamvdm2">
     <img src="https://github-readme-stats.vercel.app/api?username=liamvdm2&show_icons=true&theme=tokyonight&show=prs_merged,prs_merged_percentage" height="220"/>
   </a>
@@ -73,7 +49,7 @@
   </a>
 </p>
 
-## 🏆 Trophies
+### 🏆 Trophies
 [![Trophy](https://github-profile-trophy.vercel.app/?username=liamvdm2&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Quote
