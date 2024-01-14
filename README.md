@@ -3,11 +3,24 @@
 **liamvdm2/liamvdm2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=liamvdm2&color=brightgreen&style=flat-square" alt="profile views">
 </p>
 
 ### Hi there 👋
+
+
+## table of contents
+- ## :computer: skills
+- ## How i work
+- ## 📚 Frameworks, Platforms and Libraries i use
+- ## Contact
+- ## GitHub Statistics
+- ## 🏆 Trophies
+- ## Quote
+
 ## :computer: skills
 
 ### Programming
