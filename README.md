@@ -41,6 +41,11 @@ learning:
 
 
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liamvdm2&repo=eindproject)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ![liamvdm2 GitHub stats](https://github-readme-stats.vercel.app/api?username=liamvdm2&show_icons=true&theme=tokyonight&show=prs_merged,prs_merged_percentage)
 
 
