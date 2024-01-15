@@ -38,7 +38,8 @@ Beneath this you can read more about me:
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liamvdm2&repo=eindproject)
 
 ## Contact Me
-📫 How to reach me: ![Discord](https://dcbadge.vercel.app/api/shield/473182309957500929?theme=discord)
+###📫 How to reach me: 
+![Discord](https://dcbadge.vercel.app/api/shield/473182309957500929?theme=discord)
 
 ### My Socials (Links on My Profile):
 [![My Socials](https://skillicons.dev/icons?i=github,instagram,linkedin&perline=3)](https://skillicons.dev)
@@ -46,10 +47,10 @@ Beneath this you can read more about me:
 ## GitHub Statistics
 <p>
   <a href="https://github.com/liamvdm2">
-    <img src="https://github-readme-stats.vercel.app/api?username=liamvdm2&show_icons=true&theme=tokyonight&show=prs_merged,prs_merged_percentage" height="220"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=liamvdm2&show_icons=true&theme=dark&show=prs_merged,prs_merged_percentage" height="220"/>
   </a>
   <a href="https://github.com/liamvdm2">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liamvdm2&layout=compact&langs_count=6&theme=tokyonight" height="220"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liamvdm2&layout=compact&langs_count=6&theme=dark" height="220"/>
   </a>
 </p>
 
