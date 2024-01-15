@@ -48,7 +48,6 @@ Beneath this you can read more about me:
 <p>
   <a href="https://github.com/liamvdm2">
     <img src="https://github-readme-stats.vercel.app/api?username=liamvdm2&show_icons=true&theme=dark&show=prs_merged,prs_merged_percentage&theme=dark#gh-dark-mode-only" height="220"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=liamvdm2&show_icons=true&theme=dark&show=prs_merged,prs_merged_percentage&theme=dark#gh-light-mode-only" height="220"/>
   </a>
   <a href="https://github.com/liamvdm2">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liamvdm2&layout=compact&langs_count=6&theme=transparent" height="220"/>
