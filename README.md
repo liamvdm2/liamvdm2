@@ -56,8 +56,7 @@ Beneath this you can read more about me:
 ### 🏆 Trophies
 [![Trophy](https://github-profile-trophy.vercel.app/?username=liamvdm2&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal?theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 
 
