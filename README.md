@@ -38,7 +38,7 @@ Beneath this you can read more about me:
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liamvdm2&repo=eindproject)
 
 ## Contact Me
-###📫 How to reach me: 
+### 📫 How to reach me: 
 ![Discord](https://dcbadge.vercel.app/api/shield/473182309957500929?theme=discord)
 
 ### My Socials (Links on My Profile):
