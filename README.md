@@ -35,7 +35,7 @@ Beneath this you can read more about me:
 ## Projects
 
 ### currently working on
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liamvdm2&repo=eindproject)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liamvdm2&repo=princepressEP)
 
 ## Contact Me
 ### 📫 How to reach me: 
