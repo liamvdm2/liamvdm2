@@ -12,7 +12,7 @@
 # Hi there 👋
 My name is Liam Vandermaesen,
 a passionate front-end developer with a love for creating engaging and useful applications. My coding journey began 2 years, and since then, I've delved into various technologies and programming languages.
-Currently, I'm working on an endproject for school. . I'm always on the lookout for new challenges and learning opportunities to enhance my skills and stay up-to-date with the latest developments in the tech world.
+Currently, I'm working on an endproject for school. I'm always on the lookout for new challenges and learning opportunities to enhance my skills and stay up-to-date with the latest developments in the tech world.
 Beneath this you can read more about me:
 
 ## 💻 My tech skills
@@ -35,7 +35,7 @@ Beneath this you can read more about me:
 ## Projects
 
 ### currently working on
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liamvdm2&repo=princepressEP)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liamvdm2&repo=PortfolioLiam)
 
 ## Contact Me
 ### 📫 How to reach me: 
@@ -56,7 +56,5 @@ Beneath this you can read more about me:
 
 ### 🏆 Trophies
 [![Trophy](https://github-profile-trophy.vercel.app/?username=liamvdm2&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
-![image](https://github.com/liamvdm2/liamvdm2/assets/150899681/234c2cc6-5cea-41f5-b060-5d64883eafc4)
 
 
