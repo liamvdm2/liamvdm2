@@ -40,7 +40,7 @@ Beneath this you can read more about me:
 ![Discord](https://dcbadge.vercel.app/api/shield/473182309957500929?theme=discord)
 
 ### My Socials (Links on My Profile):
-[![My Socials](https://skillicons.dev/icons?i=github,instagram,linkedin&perline=3)](https://skillicons.dev)
+[![My Socials](https://skillicons.dev/icons?i=github,linkedin&perline=3)](https://skillicons.dev)
 
 ## GitHub Statistics
 <p>
