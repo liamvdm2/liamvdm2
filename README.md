@@ -31,6 +31,10 @@ Beneath this you can read more about me:
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
 ## Projects
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liamvdm2&repo=PortfolioLiam)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liamvdm2&repo=SEO)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liamvdm2&repo=calculator)
+
 
 ### currently working on
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liamvdm2&repo=PortfolioLiam)
