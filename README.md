@@ -34,10 +34,13 @@ Beneath this you can read more about me:
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liamvdm2&repo=PortfolioLiam)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liamvdm2&repo=SEO)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liamvdm2&repo=calculator)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liamvdm2&repo=pricecomponent)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liamvdm2&repo=Numberguess)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liamvdm2&repo=Queries)
 
 
 ### currently working on
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liamvdm2&repo=PortfolioLiam)
+
 
 ## Contact Me
 ### 📫 How to reach me: 
