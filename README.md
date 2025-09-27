@@ -3,7 +3,7 @@
 **liamvdm2/liamvdm2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
+THIS PAGE IS INACTIVE
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=liamvdm2&color=brightgreen&style=flat-square" alt="profile views">
@@ -39,12 +39,7 @@ Beneath this you can read more about me:
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liamvdm2&repo=Queries)
 
 
-### currently working on
-
-
 ## Contact Me
-### 📫 How to reach me: 
-![Discord](https://dcbadge.vercel.app/api/shield/473182309957500929?theme=discord)
 
 ### My Socials (Links on My Profile):
 [![My Socials](https://skillicons.dev/icons?i=github,linkedin&perline=3)](https://skillicons.dev)
